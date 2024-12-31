@@ -3,7 +3,7 @@
 **EasyTask** is a straightforward yet powerful task management tool.  
 It’s built with Angular and features a user interface that allows you to quickly add and track tasks for multiple users.
 
-![EasyTask Preview](src/assets/demo-screenshot.PNG)
+(https://illya97.github.io/EasyTask/)
 
 > **Note**: The screenshot above is just an example. To have it displayed properly in your README,  
 > copy or place your own screenshot in the `docs/` folder and name it `demo-screenshot.png`,  
